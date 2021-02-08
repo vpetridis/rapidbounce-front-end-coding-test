@@ -1,4 +1,3 @@
-
 :root {
   --color-bg: #ebf2ff;
   --color-cta: #1cd936;
@@ -112,18 +111,17 @@ p {
   margin: 0.5em 0;
 }
 .form input[type="email"] {
-  
+  background-color: white;
   background-image: url(../img/svg/icon-user.svg);
   background-position: 96% center;
   background-repeat: no-repeat;
-
 }
 
 .form input[type="password"] {
+  background-color: white;
   background-image: url(../img/svg/icon-password.svg);
   background-position: 96% center;
   background-repeat: no-repeat;
-
 }
 .btn-login {
   background-color: var(--color-cta);
@@ -132,7 +130,8 @@ p {
   color: #fff;
   padding: 1em 3em;
 }
-.custom-control-input:checked~.custom-control-label::before{
+.custom-control-input:checked
+  ~ .custom-control-label::before {
   background-color: var(--fc-primary);
   border-color: var(--fc-primary);
 }
