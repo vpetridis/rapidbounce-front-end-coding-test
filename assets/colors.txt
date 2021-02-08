@@ -1,0 +1,7 @@
+orange: #FE7452;
+
+dark blue: #455378;
+light blue: #899BBD;
+background blue: #EBF2FF;
+
+green: #1CD936;
