@@ -110,19 +110,7 @@ p {
   width: 100%;
   margin: 0.5em 0;
 }
-.form input[type="email"] {
-  background-color: white !important;
-  background-image: url(../img/svg/icon-user.svg) !important;
-  background-position: 96% center;
-  background-repeat: no-repeat;
-}
 
-.form input[type="password"] {
-  background-color: white !important;
-  background-image: url(../img/svg/icon-password.svg) !important;
-  background-position: 96% center;
-  background-repeat: no-repeat;
-}
 .btn-login {
   background-color: var(--color-cta);
   border-style: none;
@@ -137,6 +125,20 @@ p {
 }
 .login-forgot {
   color: var(--fc-secondary);
+}
+
+.form input[type="email"] {
+  background-color: white !important;
+  background-image: url(../img/svg/icon-user.svg) !important;
+  background-position: 96% center;
+  background-repeat: no-repeat;
+}
+
+.form input[type="password"] {
+  background-color: white !important;
+  background-image: url(../img/svg/icon-password.svg) !important;
+  background-position: 96% center;
+  background-repeat: no-repeat;
 }
 
 /* MEDIA QUERIES */
