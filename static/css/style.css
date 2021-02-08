@@ -111,15 +111,15 @@ p {
   margin: 0.5em 0;
 }
 .form input[type="email"] {
-  background-color: white;
-  background-image: url(../img/svg/icon-user.svg);
+  background-color: white !important;
+  background-image: url(../img/svg/icon-user.svg) !important;
   background-position: 96% center;
   background-repeat: no-repeat;
 }
 
 .form input[type="password"] {
-  background-color: white;
-  background-image: url(../img/svg/icon-password.svg);
+  background-color: white !important;
+  background-image: url(../img/svg/icon-password.svg) !important;
   background-position: 96% center;
   background-repeat: no-repeat;
 }
