@@ -112,16 +112,15 @@ p {
   margin: 0.5em 0;
 }
 .form input[type="email"] {
-  /* background: white url("../img/svg/icon-user.svg") no-repeat; */
-  background-image: url('../img/svg/icon-user.svg');
+  
+  background-image: url(../img/svg/icon-user.svg);
   background-position: 96% center;
   background-repeat: no-repeat;
 
 }
 
 .form input[type="password"] {
-  /* background: white url("../img/svg/icon-user.svg") no-repeat; */
-  background-image: url('../img/svg/icon-password.svg');
+  background-image: url(../img/svg/icon-password.svg);
   background-position: 96% center;
   background-repeat: no-repeat;
 
